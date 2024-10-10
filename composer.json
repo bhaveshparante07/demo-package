@@ -1,0 +1,20 @@
+{
+    "name": "bhavesh/demo-project",
+    "description": "basic projects",
+    "type": "project",
+    "require": {
+        "php": "8.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bhavesh\\DemoProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bhavesh Parante",
+            "email": "parantebhavesh1154@gmail.com"
+        }
+    ]
+}
